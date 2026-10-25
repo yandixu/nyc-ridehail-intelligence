@@ -1,0 +1,23 @@
+{
+  "retrieved_on": "2026-10-25",
+  "files": [
+    {
+      "file": "fhvhv_tripdata_2025-08.parquet",
+      "bytes": 479574607,
+      "sha256": "e2efc965d31bd10f23224f5e007b463d037c45fbdaa6ded23c5deab01ec8d3b7",
+      "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/fhvhv_tripdata_2025-08.parquet"
+    },
+    {
+      "file": "fhvhv_tripdata_2026-08.parquet",
+      "bytes": 502392134,
+      "sha256": "0015770b14420035b9c7708091b765eb59d70f25cd7d663d2462194208a198f6",
+      "url": "https://d37ci6vzurychx.cloudfront.net/trip-data/fhvhv_tripdata_2026-08.parquet"
+    },
+    {
+      "file": "taxi_zone_lookup.csv",
+      "bytes": 12331,
+      "sha256": "1a99e105092230f8620f301edcca7f80d3080642ff404d28ed957d3fa222c8ed",
+      "url": "https://d37ci6vzurychx.cloudfront.net/misc/taxi_zone_lookup.csv"
+    }
+  ]
+}
